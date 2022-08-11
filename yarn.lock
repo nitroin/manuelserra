@@ -6988,12 +6988,7 @@ html-comment-regex@^1.1.0:
   resolved "https://registry.yarnpkg.com/html-comment-regex/-/html-comment-regex-1.1.2.tgz#97d4688aeb5c81886a364faa0cad1dda14d433a7"
   integrity sha512-P+M65QY2JQ5Y0G9KKdlDpo0zK+/OHptU5AaBwUfAIDJZk1MYf32Frm84EcOytfJE0t5JvkAnKlmjsXDnWzCJmQ==
 
-html-entities@^1.2.0, html-entities@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/html-entities/-/html-entities-1.2.1.tgz#0df29351f0721163515dfb9e5543e5f6eed5162f"
-  integrity sha1-DfKTUfByEWNRXfueVUPl9u7VFi8=
-
-html-entities@^1.3.1:
+html-entities@^1.2.0, html-entities@^1.2.1, html-entities@^1.3.1:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/html-entities/-/html-entities-1.4.0.tgz#cfbd1b01d2afaf9adca1b10ae7dffab98c71d2dc"
   integrity sha512-8nxjcBcd8wovbeKx7h3wTji4e6+rhaVuPNpMqwWgnHh+N9ToqsCs6XztWRBPQ+UtzsoMAdKZtUENoVzU/EMtZA==
@@ -7025,10 +7020,10 @@ htmlparser2@^6.0.0:
     domutils "^2.5.2"
     entities "^2.0.0"
 
-htmr@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/htmr/-/htmr-1.0.1.tgz#8083bacf74130bbd040aa0ffb32f26ed794f8c22"
-  integrity sha512-7YF4lq4xlwKs+0AYu9cRnBAIh5bPrjArgMwiZIbSrF3z9MhCzbeqoCp4mYnHdK22DMkcwYakE07PJTYbITOhqA==
+htmr@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/htmr/-/htmr-1.0.2.tgz#6e1feb8e4a62bae69774a95ca00702a32ac96b16"
+  integrity sha512-7T9babEHZwECQ2/ouxNPow1uGcKbj/BcbslPGPRxBKIOLNiIrFKq6ELzor7mc4HiexZzdb3izQQLl16bhPR9jw==
   dependencies:
     html-entities "^2.1.0"
     htmlparser2 "^6.0.0"
